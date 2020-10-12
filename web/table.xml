@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl" ?>
+<goods>
+    <avaliable>
+        <good>
+            <title>Штурмовая винтовка Cyma HK G36С </title>
+            <articool>1110</articool>
+            <price>7685</price>
+            <image>hkg36c.jpeg</image>
+        </good>
+        <good>
+            <title>Автомат Cyma АК-47 Tactical (CM028A)</title>
+            <articool>1111</articool>
+            <price>6936</price>
+            <image>ak47tactcm028a.jpeg</image>
+        </good>
+        <good>
+            <title>Автомат Cyma АКС-74Н (CM040)</title>
+            <articool>1112</articool>
+            <price>10697</price>
+            <image>aks74hcm040.jpeg</image>
+        </good>
+        <good>
+            <title>Бронежилет ASR 6094M EMR</title>
+            <articool>1113</articool>
+            <price>5945</price>
+            <image>asr6094memr.jpeg</image>
+        </good>
+    </avaliable>
+    <non-avaliable>
+        <good>
+            <title>Кобура ASR "ТАРГЕТ"</title>
+            <articool>1114</articool>
+            <price>555</price>
+            <image>asrtrgrmc.jpeg</image>
+        </good>
+        <good>
+            <title>Нагрудник лёгкий ASR Fast-Five FG</title>
+            <articool>1115</articool>
+            <price>1090</price>
+            <image>asrfastfivefg.jpeg</image>
+        </good>
+        <good>
+            <title>Пистолет Galaxy Beretta 92 mini spring </title>
+            <articool>1116</articool>
+            <price>790</price>
+            <image>beretta92mini.jpeg</image>
+        </good>
+        <good>
+            <title>Пистолет WE Colt Hi-Capa 5.2 CO2 GBB</title>
+            <articool>1117</articool>
+            <price>8280</price>
+            <image>wecolthicapa.jpeg</image>
+        </good>
+        <good>
+            <title>Пистолет KWC ПМ CO2 GNBB</title>
+            <articool>1118</articool>
+            <price>3434</price>
+            <image>pmco2gnbb.jpeg</image>
+        </good>
+    </non-avaliable>
+</goods>
